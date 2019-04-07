@@ -1,0 +1,3 @@
+[submodule "GoL-hs"]
+	path = GoL-hs
+	url = https://github.com/Michel-Haber/GoL-hs.git
